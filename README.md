@@ -7,7 +7,7 @@
 <h1 style="margin-top: 10px;">QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution</h1>
 
 
-[LiBo Zhu](https://github.com/LiBoZhu030073), [Haotong Qin](https://htqin.github.io/), [Kaicheng Yang](https://racoonykc.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Yong Guo](https://www.guoyongcs.com/), [Yulun Zhang](http://yulunzhang.com/), [Susanto Rahardj]() and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ), "QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution", arXiv, 2025
+[LiBo Zhu](https://github.com/LiBoZhu030073), [Haotong Qin](https://htqin.github.io/), [Kaicheng Yang](https://racoonykc.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Yong Guo](https://www.guoyongcs.com/), [Yulun Zhang](http://yulunzhang.com/), [Susanto Rahardj](https://www.singaporetech.edu.sg/directory/faculty/susanto-rahardja) and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ), "QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution", arXiv, 2025
 
 [[arXiv](https://arxiv.org/abs/2411.17106)] [supplementary material] [visual results]
 
